@@ -1,3 +1,5 @@
+#efs.tf
+
 # Creating an EFS file system
 resource "aws_efs_file_system" "app_efs" 
 {
