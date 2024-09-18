@@ -1,4 +1,5 @@
 # subnet.tf
+
 # Defining a Public subnet within the VPC
 resource "aws_subnet" "public_subnet" 
 {
