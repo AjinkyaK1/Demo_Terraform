@@ -1,4 +1,4 @@
-#outputs.tf
+# outputs.tf
 
 output "s3_bucket_id" 
 {
